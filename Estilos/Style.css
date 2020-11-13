@@ -1,0 +1,36 @@
+*{
+    font-size: 20px;
+    color: white;
+    background: black;
+}
+
+.b{
+    color: red;
+    background: red;
+}
+
+.b:hover{
+    background: white;
+    font-size: 30px;
+    color: black;
+    border-radius: 20px;
+    transition: 3s;
+}
+
+.lau{
+    display: block;
+    color: black;
+    background: white;
+}
+
+.mate{
+    display: block;
+    color: red;
+    background: rgb(0, 162, 255);
+}
+
+.alex{
+    display: block;
+    color: black;
+    background: white;
+}

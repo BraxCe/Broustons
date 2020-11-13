@@ -1,0 +1,21 @@
+*{
+background: black;
+color: red;
+font-size: 25px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+b{
+    background: red;
+    border-radius: 20px;
+}
+
+b:hover{
+    background: white;
+    color: black;
+    font-size: 30px;
+    transition: 2s;
+}
